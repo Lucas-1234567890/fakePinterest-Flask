@@ -29,7 +29,7 @@ FakePinterest é um projeto web feito com Flask que permite criar conta, fazer l
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Lucas-1234567890/fakePinterest-Flask
    cd fakePinterest
     ```
 
